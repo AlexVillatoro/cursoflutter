@@ -1,0 +1,27 @@
+com.example.movies_app-lifecycle-livedata-core-2.7.0-0 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\080f464f0bf4365030a0d4439bbbfd49\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.movies_app-jetified-profileinstaller-1.3.1-1 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\088bfbf110e5db8399af4733ae19ec40\transformed\jetified-profileinstaller-1.3.1\res
+com.example.movies_app-lifecycle-livedata-2.7.0-2 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\0dc93250112b959ea56d9b9919a42920\transformed\lifecycle-livedata-2.7.0\res
+com.example.movies_app-jetified-startup-runtime-1.1.1-3 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\110070389395cec584a7fb9392bacc6d\transformed\jetified-startup-runtime-1.1.1\res
+com.example.movies_app-jetified-savedstate-1.2.1-4 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\209a8e19a1e6b17f22d8f7c3056ccd16\transformed\jetified-savedstate-1.2.1\res
+com.example.movies_app-jetified-window-1.2.0-5 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\2a982e5e1a41ce9b4bde866baaf52701\transformed\jetified-window-1.2.0\res
+com.example.movies_app-jetified-lifecycle-process-2.7.0-6 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\305aa86c6433b2522fa3b891e621f642\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.movies_app-core-1.13.1-7 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\3b06ce345ce0cc658e4a53500c83d4ef\transformed\core-1.13.1\res
+com.example.movies_app-jetified-tracing-1.2.0-8 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\3d98c72c7c33adb077691e80abd71c0d\transformed\jetified-tracing-1.2.0\res
+com.example.movies_app-jetified-annotation-experimental-1.4.0-9 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\4b11cd3013247c39296ea535f71cbf69\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.movies_app-core-runtime-2.2.0-10 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\7fe0951b720d6fb73f7640fcf57f3d1f\transformed\core-runtime-2.2.0\res
+com.example.movies_app-jetified-lifecycle-livedata-core-ktx-2.7.0-11 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\9a8f07074f3f9ae54b5b0d931e469e84\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.movies_app-jetified-lifecycle-viewmodel-savedstate-2.7.0-12 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\9d9730695dc021acf0b7d6278574cc30\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.movies_app-fragment-1.7.1-13 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\b6d191905d458bbbbd889e8a84f7a934\transformed\fragment-1.7.1\res
+com.example.movies_app-jetified-core-ktx-1.13.1-14 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\ce5bfb89d55a9500a79d52707ae8ecf6\transformed\jetified-core-ktx-1.13.1\res
+com.example.movies_app-jetified-core-1.0.0-15 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\cfff2d9a36fde8c44d7dd0d44cdd8c21\transformed\jetified-core-1.0.0\res
+com.example.movies_app-lifecycle-viewmodel-2.7.0-16 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\db9d21c8c55758cc6921a01d80500e26\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.movies_app-jetified-activity-1.8.1-17 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\e331edc75f637ca7ecfbcb493847bdde\transformed\jetified-activity-1.8.1\res
+com.example.movies_app-lifecycle-runtime-2.7.0-18 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\eddd58e15ab0f352b830cebf913edae7\transformed\lifecycle-runtime-2.7.0\res
+com.example.movies_app-jetified-window-java-1.2.0-19 C:\Users\Alex Villatoro\.gradle\caches\transforms-4\f0255bf96b34d20a3548f6aac0ccd083\transformed\jetified-window-java-1.2.0\res
+com.example.movies_app-debug-20 C:\cursoflutter\curso_flutter\android\app\src\debug\res
+com.example.movies_app-main-21 C:\cursoflutter\curso_flutter\android\app\src\main\res
+com.example.movies_app-pngs-22 C:\cursoflutter\curso_flutter\build\app\generated\res\pngs\debug
+com.example.movies_app-resValues-23 C:\cursoflutter\curso_flutter\build\app\generated\res\resValues\debug
+com.example.movies_app-packageDebugResources-24 C:\cursoflutter\curso_flutter\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.movies_app-packageDebugResources-25 C:\cursoflutter\curso_flutter\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.movies_app-debug-26 C:\cursoflutter\curso_flutter\build\app\intermediates\merged_res\debug\mergeDebugResources

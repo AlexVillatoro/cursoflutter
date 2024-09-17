@@ -1,0 +1,1 @@
+ C:\\cursoflutter\\curso_flutter\\.dart_tool\\flutter_build\\cec4129e6aa7e55c55cd2f018fb7245d\\native_assets.yaml: 
